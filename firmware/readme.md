@@ -1,4 +1,4 @@
-# The Altiods Macropad
+# The Altoids Macropad
 
 A 12-key macropad that uses a common mint candy container as a case
 
